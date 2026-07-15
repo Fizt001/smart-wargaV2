@@ -1,10 +1,10 @@
-# 🏘️ Sistem Informasi Perumahan Blok Erika (SIP-BTR)
+# 🏘️ Portal Warga Perumahan Blok Erika (SIP-BTR)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-production_ready-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-**SIP-BTR** adalah sebuah platform digital terpadu (ERP Mikro) yang dirancang khusus untuk memodernisasi tata kelola administrasi Rukun Tetangga (RT) dan Rukun Warga (RW) di lingkungan Perumahan Bumi Trimulyo. Sistem ini memfasilitasi komunikasi, administrasi, dan transparansi keuangan antara Pengurus dan Warga secara *real-time* dan *paperless*.
+**SIP-BTR** adalah sebuah platform digital terpadu (ERP Mikro) yang dirancang khusus untuk memodernisasi tata kelola administrasi Rukun Tetangga (RT) dan Rukun Warga (RW) di lingkungan Perumahan Blok Erika. Sistem ini memfasilitasi komunikasi, administrasi, dan transparansi keuangan antara Pengurus dan Warga secara *real-time* dan *paperless*.
 
 ---
 
