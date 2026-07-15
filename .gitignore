@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# PHP / Laravel
+vendor/
+.env
+public/storage
+storage/*.key
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+*.log
