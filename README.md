@@ -1,4 +1,4 @@
-# 🏘️ Sistem Informasi Perumahan Bumi Trimulyo (SIP-BTR)
+# 🏘️ Sistem Informasi Perumahan Blok Erika (SIP-BTR)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-production_ready-success.svg)
